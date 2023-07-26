@@ -1,4 +1,4 @@
-![BiteSight](https://github.com/Krypthon-Hackathon-VITC/Team-28/blob/main/BiteSight-main/src/assets/logonobg.png?raw=true)
+![BiteSight](https://github.com/aqibkhann/BiteSight/tree/main/src/assets/logonobg.png?raw=true)
 
 # BiteSight
 
