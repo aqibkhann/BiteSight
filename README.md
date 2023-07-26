@@ -6,7 +6,7 @@ This nutrient tracker dashboard is a computer vision-based system that allows us
 
 This Repo has branches ```main``` for the web dashboard and ```master``` for the mobile app.
 
-# Installation
+# Demo
 
 1. Clone the repository to your local machine using ```git clone https://github.com/yourusername/nutrient-tracker-dashboard.git```
 2. Open the terminal in the cloned directory and ```npm install``` then ```npm run dev```
