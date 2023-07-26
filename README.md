@@ -1,4 +1,4 @@
-![BiteSight](https://github.com/aqibkhann/BiteSight/tree/main/src/assets/logonobg.png?raw=true)
+![BiteSight](https://github.com/aqibkhann/BiteSight/blob/main/src/assets/logonobg.png?raw=true)
 
 # BiteSight
 
